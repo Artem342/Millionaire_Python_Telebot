@@ -12,7 +12,7 @@ user_Name = None
 time_answer = 60
 
 # Создание экземпляра телебота и присваивание его переменной bot
-TOKEN = "7976311138:AAGS8br0OaSv27Iq5eOtYArCxTjPLUfcYnQ"
+TOKEN = ""
 bot = telebot.TeleBot(TOKEN)
 
 # Обработчик команды 'start' или 's' для запуска игры
